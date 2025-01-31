@@ -15,3 +15,12 @@ Sign-off timing analysis - breaks down the design into various timing paths, met
 Physical verification - a process whereby an integrated circuit layout design is verified via EDA software tools to ensure correct electrical and logical functionality and manufacturability.
 
 GDSII Tapeout- GDSII files are usually the final output product of the IC design cycle and are handed over to IC foundries for IC fabrication.
+
+OPENLANE- OpenLane is an innovative silicon implementation platform that supports open-source tools such as Yosys, OpenROAD, Magic ETC.
+
+
+After synthesis we need to design a floorplan for the cells. It estimates chip areas, delay, and congestion caused by wiring, providing crucial feedback for the design process.
+
+CMOS - the small amount of memory on a motherboard that stores the BIOS settings, including system time and hardware configuration. It is made up of PMOS and NMOS.
+
+![image alt](
