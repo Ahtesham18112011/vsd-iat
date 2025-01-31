@@ -23,4 +23,14 @@ After synthesis we need to design a floorplan for the cells. It estimates chip a
 
 CMOS - the small amount of memory on a motherboard that stores the BIOS settings, including system time and hardware configuration. It is made up of PMOS and NMOS.
 
+![image alt](https://github.com/Ahtesham18112011/vsd-iat/blob/9645b2cbeb3f19618a3a982d6b3e3c347e47c76f/Screenshot%20from%202025-01-31%2014-31-44.png)
+
+CTS (Clock Tree Synthesis)- Clock Tree Synthesis (CTS) is the technique of balancing the clock delay to all clock inputs by inserting buffers/inverters along the clock routes.
+
+After CTS we need the Placement and Routing of the chip. placement, involves deciding where to place all electronic components, circuitry, and logic elements in a generally limited amount of space. This is followed by routing, which decides the exact design of all the wires needed to connect the placed components.The detailed routing is called TritonRoute and detailed routing is better because 
+it has has a proper detailed routing of wires.
+
+
+
+LABS
 ![image alt](
